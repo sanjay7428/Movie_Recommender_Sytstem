@@ -1,3 +1,15 @@
+COMPANY. CODTECH IT SOLUTIONS
+
+NAME: SANJAY KUMAR SAINI
+
+INTERN ID : CT04DR1297
+
+DOMAIN : MACHINE LEARNING
+
+DURATION: 4 WEEKS
+
+MENTOR : NEELA SANTOSH
+
 # movie-recommender-system-tmdb-dataset
 A content based movie recommender system using cosine similarity
 Here is the content formatted for a `README.md` file for your GitHub project:
